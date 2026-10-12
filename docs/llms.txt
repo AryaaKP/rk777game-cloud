@@ -13,3 +13,31 @@ Official repository and landing hub for RK777 Game, India's certified real-cash 
 - [Markdown Mirror](index.md): Full markdown representation of the primary landing page.
 - [Main Landing Page](index.html): Responsive, zero-CDN mobile web client.
 - [Sitemap](sitemap.xml): Complete machine-readable XML sitemap for search crawlers.
+
+## Multilingual Language Editions (25 Languages)
+This platform provides complete localized pages with 100% native translations:
+- [हिन्दी (Hindi)](https://rk777game.cloud/hi.html): Official Hindi edition.
+- [বাংলা (Bengali)](https://rk777game.cloud/bn.html): Official Bengali edition.
+- [తెలుగు (Telugu)](https://rk777game.cloud/te.html): Official Telugu edition.
+- [मराठी (Marathi)](https://rk777game.cloud/mr.html): Official Marathi edition.
+- [தமிழ் (Tamil)](https://rk777game.cloud/ta.html): Official Tamil edition.
+- [اردو (Urdu)](https://rk777game.cloud/ur.html): Official Urdu edition.
+- [ગુજરાતી (Gujarati)](https://rk777game.cloud/gu.html): Official Gujarati edition.
+- [ಕನ್ನಡ (Kannada)](https://rk777game.cloud/kn.html): Official Kannada edition.
+- [മലയാളം (Malayalam)](https://rk777game.cloud/ml.html): Official Malayalam edition.
+- [ଓଡ଼ିଆ (Odia)](https://rk777game.cloud/or.html): Official Odia edition.
+- [ਪੰਜਾਬੀ (Punjabi)](https://rk777game.cloud/pa.html): Official Punjabi edition.
+- [অসমীয়া (Assamese)](https://rk777game.cloud/as.html): Official Assamese edition.
+- [मैथिली (Maithili)](https://rk777game.cloud/mai.html): Official Maithili edition.
+- [संस्कृतम् (Sanskrit)](https://rk777game.cloud/sa.html): Official Sanskrit edition.
+- [भोजपुरी (Bhojpuri)](https://rk777game.cloud/bho.html): Official Bhojpuri edition.
+- [Español (Spanish)](https://rk777game.cloud/es.html): Official Spanish edition.
+- [Français (French)](https://rk777game.cloud/fr.html): Official French edition.
+- [Deutsch (German)](https://rk777game.cloud/de.html): Official German edition.
+- [Português (Portuguese)](https://rk777game.cloud/pt.html): Official Portuguese edition.
+- [Русский (Russian)](https://rk777game.cloud/ru.html): Official Russian edition.
+- [العربية (Arabic)](https://rk777game.cloud/ar.html): Official Arabic edition.
+- [Bahasa Indonesia (Indonesian)](https://rk777game.cloud/id.html): Official Indonesian edition.
+- [日本語 (Japanese)](https://rk777game.cloud/ja.html): Official Japanese edition.
+- [Tiếng Việt (Vietnamese)](https://rk777game.cloud/vi.html): Official Vietnamese edition.
+- [Türkçe (Turkish)](https://rk777game.cloud/tr.html): Official Turkish edition.
